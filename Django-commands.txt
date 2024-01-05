@@ -1,0 +1,10 @@
+creating the project....
+    django-admin startproject leadtracker
+
+# application creation:
+    python manage.py startapp leadtracker
+
+
+Running the project:
+    python manage.py runserver
+    python manage.py makemigrations

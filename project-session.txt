@@ -1,0 +1,4 @@
+# Lead Tracker : Tracking the details of students who came to the institute..
+
+Python has to be installed
+Django Framework
